@@ -1,0 +1,9 @@
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\bin\calculadora_david.dll.config
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\bin\calculadora_david.dll
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\bin\calculadora_david.pdb
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\obj\Debug\calculadora_david.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\obj\Debug\calculadora_david.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\obj\Debug\calculadora_david.dll
+C:\Users\Unicomfacauca\source\repos\calculadora_david\calculadora_david\obj\Debug\calculadora_david.pdb
